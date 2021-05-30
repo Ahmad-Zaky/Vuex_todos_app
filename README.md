@@ -1,4 +1,5 @@
-# vuex_todo_manager
+# Vuex Todos App
+Vuex Todos App Crash Course
 
 ## Project setup
 ```
@@ -17,3 +18,4 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
